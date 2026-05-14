@@ -1,0 +1,66 @@
+** compiled at:     Oct 23 2025 16:07:41
+** execution start: 2026-02-23 18:24:14:372079
+graph.cpp:initParameters:1589(3) opening config file 'rai.cfg'
+graph.cpp:initParameters:1596(3)  - failed
+graph.cpp:initParameters:1602(3) opening base config file '/root/local/rai/../rai-robotModels/../local.cfg'
+graph.cpp:initParameters:1608(3)  - failed
+util.cpp:cd_file:1077(3) entering path '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project/configs' from '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project'
+util.cpp:getIs:1104(3) opening input file 'pandasTable_fixedCam.g'
+util.cpp:cd_file:1077(3) entering path '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project/configs/../../../../../../../..//home/eddy/.pyenv/versions/uni/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios' from '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project/configs'
+util.cpp:getIs:1104(3) opening input file 'pandaSingle.g'
+util.cpp:cd_file:1077(3) entering path '/home/eddy/.pyenv/versions/3.10.2/envs/uni/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios' from '/home/eddy/.pyenv/versions/3.10.2/envs/uni/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:getIs:1104(3) opening input file 'panda_fixGripper.g'
+util.cpp:cd_file:1077(3) entering path '/home/eddy/.pyenv/versions/3.10.2/envs/uni/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios/../panda' from '/home/eddy/.pyenv/versions/3.10.2/envs/uni/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:getIs:1104(3) opening input file 'panda.g'
+util.cpp:cd_file:1077(3) entering path '/home/eddy/.pyenv/versions/3.10.2/envs/uni/lib/python3.10/site-packages/robotic/rai-robotModels/panda' from '/home/eddy/.pyenv/versions/3.10.2/envs/uni/lib/python3.10/site-packages/robotic/rai-robotModels/panda'
+util.cpp:getIs:1104(3) opening input file 'panda_arm_hand_conv.yml'
+util.cpp:cd_base:1068(3) entering path '/home/eddy/.pyenv/versions/3.10.2/envs/uni/lib/python3.10/site-packages/robotic/rai-robotModels/panda'
+util.cpp:cd_base:1068(3) entering path '/home/eddy/.pyenv/versions/3.10.2/envs/uni/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:cd_base:1068(3) entering path '/home/eddy/.pyenv/versions/3.10.2/envs/uni/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:cd_base:1068(3) entering path '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project/configs'
+util.cpp:cd_file:1077(3) entering path '/home/eddy/.pyenv/versions/3.10.2/envs/uni/lib/python3.10/site-packages/robotic/rai-robotModels/panda/meshes' from '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project/configs'
+util.cpp:getIs:1104(3) opening input file 'link0.h5'
+util.cpp:cd_base:1068(3) entering path '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project/configs'
+util.cpp:cd_file:1077(3) entering path '/home/eddy/.pyenv/versions/3.10.2/envs/uni/lib/python3.10/site-packages/robotic/rai-robotModels/panda/meshes' from '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project/configs'
+util.cpp:getIs:1104(3) opening input file 'link1.h5'
+util.cpp:cd_base:1068(3) entering path '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project/configs'
+util.cpp:cd_file:1077(3) entering path '/home/eddy/.pyenv/versions/3.10.2/envs/uni/lib/python3.10/site-packages/robotic/rai-robotModels/panda/meshes' from '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project/configs'
+util.cpp:getIs:1104(3) opening input file 'link2.h5'
+util.cpp:cd_base:1068(3) entering path '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project/configs'
+util.cpp:cd_file:1077(3) entering path '/home/eddy/.pyenv/versions/3.10.2/envs/uni/lib/python3.10/site-packages/robotic/rai-robotModels/panda/meshes' from '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project/configs'
+util.cpp:getIs:1104(3) opening input file 'link3.h5'
+util.cpp:cd_base:1068(3) entering path '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project/configs'
+util.cpp:cd_file:1077(3) entering path '/home/eddy/.pyenv/versions/3.10.2/envs/uni/lib/python3.10/site-packages/robotic/rai-robotModels/panda/meshes' from '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project/configs'
+util.cpp:getIs:1104(3) opening input file 'link4.h5'
+util.cpp:cd_base:1068(3) entering path '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project/configs'
+util.cpp:cd_file:1077(3) entering path '/home/eddy/.pyenv/versions/3.10.2/envs/uni/lib/python3.10/site-packages/robotic/rai-robotModels/panda/meshes' from '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project/configs'
+util.cpp:getIs:1104(3) opening input file 'link5.h5'
+util.cpp:cd_base:1068(3) entering path '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project/configs'
+util.cpp:cd_file:1077(3) entering path '/home/eddy/.pyenv/versions/3.10.2/envs/uni/lib/python3.10/site-packages/robotic/rai-robotModels/panda/meshes' from '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project/configs'
+util.cpp:getIs:1104(3) opening input file 'link6.h5'
+util.cpp:cd_base:1068(3) entering path '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project/configs'
+util.cpp:cd_file:1077(3) entering path '/home/eddy/.pyenv/versions/3.10.2/envs/uni/lib/python3.10/site-packages/robotic/rai-robotModels/panda/meshes' from '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project/configs'
+util.cpp:getIs:1104(3) opening input file 'link7.h5'
+util.cpp:cd_base:1068(3) entering path '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project/configs'
+util.cpp:cd_file:1077(3) entering path '/home/eddy/.pyenv/versions/3.10.2/envs/uni/lib/python3.10/site-packages/robotic/rai-robotModels/panda/meshes' from '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project/configs'
+util.cpp:getIs:1104(3) opening input file 'hand.h5'
+util.cpp:cd_base:1068(3) entering path '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project/configs'
+util.cpp:cd_file:1077(3) entering path '/home/eddy/.pyenv/versions/3.10.2/envs/uni/lib/python3.10/site-packages/robotic/rai-robotModels/panda/meshes' from '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project/configs'
+util.cpp:getIs:1104(3) opening input file 'finger.h5'
+util.cpp:cd_base:1068(3) entering path '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project/configs'
+util.cpp:cd_base:1068(3) entering path '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project'
+util.cpp:cd_file:1077(3) entering path '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project/meshes' from '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project'
+util.cpp:getIs:1104(3) opening input file 'untitled.obj'
+util.cpp:cd_base:1068(3) entering path '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project'
+util.cpp:cd_file:1077(3) entering path '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project/./configs' from '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project'
+util.cpp:getIs:1104(3) opening input file 'markers.g'
+graph.cpp:getParents:845(-1) parsing parent 'world' -- unknown
+util.cpp:cd_base:1068(3) entering path '/home/eddy/UNI/AI_Robotics/ai-and-robotics-dice-project'
+i_Physx.cpp:removeJoint:1117(0) REMOVING JOINT l_panda_joint7-box1
+bot.cpp:~BotOp:139(0) shutting down BotOp...
+simulation.cpp:~BotThreadedSim:61(0) shutting down SimThread
+** execution stop: 2026-02-23 18:25:24:465257
+** real time: 70.0932sec
+** CPU time: 67.1853
+
+** set+queried params:
