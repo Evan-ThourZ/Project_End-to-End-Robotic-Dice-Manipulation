@@ -6,9 +6,7 @@ two dice, estimates their 6D poses from RGB-D point clouds, plans rotation primi
 ## Reference Video
 
 Simulation demo of the closed-loop dice manipulation pipeline:
-<video src="demo_sim_video.mp4" controls width="720"></video>
-
-[Download demo video](demo_sim_video.mp4)
+https://github.com/Evan-ThourZ/Project_End-to-End-Robotic-Dice-Manipulation/raw/main/demo_sim_video.mp4
 
 ### Decision layer (target-sum planner)
 `main.py` can plan and execute dice roll primitives (`x`, `-x`, `y`, `-y`) to reach a desired **top-face sum**.
