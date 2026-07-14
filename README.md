@@ -4,8 +4,10 @@ task. The system using Franka robotic arm integrated with Realsense camera obser
 two dice, estimates their 6D poses from RGB-D point clouds, plans rotation primitives, executes robot actions, and re-perceives the scene after each step. The perception module used plane removal, DBSCAN clustering, coarse/fine ICP, and pip-based orientation refinement to recover reliable dice poses. The decision layer applied BFS over 24 discrete cube orientations to find the shortest sequence of ±90° rotations. Motion execution was handled with KOMO-based inverse kinematics, including collision, joint-limit, positioning, and orientation constraints. The project demonstrates practical experience in perception–planning–execution for sim-to-real robotic manipulation.
 
 ## Demo Video
+
 Simulation demo of the closed-loop dice manipulation pipeline:
-[![Demo Video](demo/demo4_cover.png)](demo/demo_sim_video.mp4)
+
+https://github.com/Evan-ThourZ/Project_End-to-End-Robotic-Dice-Manipulation/raw/main/demo/demo_sim_video.mp4
 
 ### Decision layer (target-sum planner)
 `main.py` can plan and execute dice roll primitives (`x`, `-x`, `y`, `-y`) to reach a desired **top-face sum**.
